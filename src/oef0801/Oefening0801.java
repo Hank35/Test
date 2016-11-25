@@ -6,7 +6,7 @@ public class Oefening0801 {
   public static void main( String[] args ) {
       
     Voorraad voorraad = new Voorraad();
-    Item item1 = new Boek( "fiets", 24.00, 9 );
+    Item item1 = new Boek( "racefiets", 24.00, 9 );
     Item item2 = new Boek( "driewieler", 80.00, 9 );
     Item item3= new Tijdschrift( "vliegtuig", 5.95, 15, "week 2 2016" );
     Item item4 = new Tijdschrift( "mobiel", 5.95, 15, "week 8 2015" );
